@@ -1,2 +1,2 @@
 # timesheet-bot
-Automate timesheet submission
+Timesheet submission automation
