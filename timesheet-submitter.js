@@ -114,4 +114,4 @@ async function submit(times = []) {
 // USAGE:
 // submit() -> for random values ~8-10
 // submit([8,9,8,9,10]) -> enter weekdays values in order
-window.isTest = 1;submit();
+// window.isTest = 1; submit();
